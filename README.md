@@ -1,0 +1,2 @@
+- 👋 Hi, I’m Shupeng Wang from TCL Research (WuHan)
+- 👀 I’m interested in visual content generation (AIGC)
